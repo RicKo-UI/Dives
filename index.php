@@ -109,7 +109,7 @@
                     <div class="card-img-top">
                         <img src="assets/s1.png" class="card-img-top pt-5 pl-5 pr-5" alt="...">
                         <div class="card-body">
-                            <p class="card-text text-center">Daftar dan Login ke web</p>
+                            <p class="card-text text-center">Daftar dan Login ke website</p>
                         </div>
                     </div>
                 </div>
